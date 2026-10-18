@@ -1,0 +1,10 @@
+{
+  "urls": [
+    "https://www.bilibili.com/video/BVxxxxxxxx",
+    "https://www.bilibili.com/audio/au123"
+  ],
+  "message": "在这里填写要发送的评论",
+  "interval_seconds": 2,
+  "deepseek_api_key": "在这里填写 DeepSeek API Key",
+  "cookie": "SESSDATA=你的SESSDATA; bili_jct=你的bili_jct"
+}
